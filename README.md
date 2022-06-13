@@ -122,12 +122,12 @@ console.log("hello");
 </br>
 
 # Task List
--[X] task 1   
--[X] task 2  
--[X] task 3  
--[X] task 4  
--[X] task 5  
--[X] task 6    
+- [] task 1   
+- [x] task 2  
+- [x] task 3  
+- [x] task 4  
+- [x] task 5  
+- [x] task 6    
 
 </br>
 
